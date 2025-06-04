@@ -1,4 +1,4 @@
-# Blueprint: Advanced Full-Stack E-Commerce Platform
+# Advanced Full-Stack E-Commerce Platform
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.x-black?logo=next.js&style=for-the-badge)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&style=for-the-badge)](https://react.dev/)
