@@ -42,7 +42,7 @@ This project was built on three core principles:
 
 ## 🚀 Live Demo
 
-**[➡️ View the live application here (if available)](https://youtu.be/-oNUkM48aGQ?si=KbYZtfUOdIXHiZKS)**
+**[➡️ View the live application here](https://youtu.be/-oNUkM48aGQ?si=KbYZtfUOdIXHiZKS)**
 
 ---
 
